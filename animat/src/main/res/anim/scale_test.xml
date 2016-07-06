@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromXScale="1.0"
+    android:fromYScale="1.0"
+    android:toXScale="0.0"
+    android:toYScale="0.0"
+    android:pivotX="0%"
+    android:pivotY="0%"
+    android:repeatCount="3"
+    android:duration="2000">
+
+    <!--
+      放大或缩小之前的大小
+      放大或缩小之后的大小
+      放大或缩小的中心点
+    -->
+
+</scale>
